@@ -1,7 +1,5 @@
     # Bon Appétit
 
-    #### Video Demo:  <URL HERE>
-
     #### Description:
     The final project is a program that recommends random recipe based on the ingredients you had. The recipes are coming from a JSON file(https://frosch.cosy.sbg.ac.at/datasets/json/recipes/-/blob/main/recipes.json). You enter at least 3 material and the program cheks the JSON file and return you a recipe.
 
